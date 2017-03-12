@@ -57,8 +57,7 @@ public persona() {
     
     }
     
-  //pedir la fecha denacimiento y pedri la edad
-    // leerherencia
+  
     
     
    
